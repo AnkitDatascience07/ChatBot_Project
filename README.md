@@ -8,4 +8,4 @@ Welcome to the this repository! This project focuses on building a sophisticated
 - **Streamlit Integration:** Leverages Streamlit to create an interactive and user-friendly interface for the chatbot.
 
 
-Live View - https://llmchatbot-project.streamlit.app/
+Live View -[ https://llmchatbot-project.streamlit.app/](https://llmchatbotproject.streamlit.app/)
